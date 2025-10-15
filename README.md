@@ -3,13 +3,6 @@
 Title of dataset:
 Bird defaunation leads to the loss of key ecosystem services in the Atlantic Forest
 
-Authors:
-Ana Claudia Almeidaa, Juliano A. Bogoni, Clinton N. Jenkins, Mauricio Almeida-Gomes
-
-
-Corresponding author:
-Ana Claudia Almeida, Programa de Pós-graduação em Ecologia e Conservação (PPGEC), Universidade Federal de Mato Grosso do Sul, Av. Costa e Silva, 79070-900, Campo Grande, MS, Brazil. Email: acalmeida.bio@gmail.com
-
 Date of data collection:
 2021–2023
 
